@@ -1,0 +1,9 @@
+body {text-align: center;
+font-family: cursive;
+background: lavender}
+h1 {color:blue;}
+h2 {padding: 0px 20px 0px 20px;}
+li {text-align: center;
+  display: inline;
+padding: 0px 20px 0px 20px;
+}
