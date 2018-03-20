@@ -1,0 +1,21 @@
+body {text-align: center;
+font-family: helvetica;
+background: lavender}
+h1 {color: #DB7093;
+font-size: 80px}
+h2 {padding: 0px 20px 0px 20px;
+font-size: 50px;
+margin-bottom: 50px}
+li {text-align: center;
+  display: inline;
+padding: 20px 20px 20px 20px;
+margin: 40px 0px 40px 0px;}
+img {width: 250px;
+height: 350px;}
+.jumbotron {background: lavender;
+margin: auto;}
+h3 {font-size: 30px;
+margin: 20px 80px 20px 80px}
+.main-list {font-size: 20px;
+font-color: red;}
+button {background-color: white}
