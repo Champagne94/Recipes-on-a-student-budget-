@@ -1,0 +1,24 @@
+.monika-picture {
+width: 50%;
+height: 50%;
+border: 2px black ;
+margin: 2px;
+posit ;
+padding: 2px;
+background-color: rgb(210, 169, 72);
+
+}
+
+.shien-picture {
+  width: 80%;
+  height: 80%;
+  border: 2px black;
+  margin: 2px;
+  position: center;
+  padding: 2px;
+  background-color: rgb(210, 169, 72);
+}
+body {
+  background-color: rgb(210, 169, 72);
+
+}
