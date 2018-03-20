@@ -6,7 +6,6 @@ margin: 2px;
 posit ;
 padding: 2px;
 background-color: rgb(210, 169, 72);
-background-blend-mode: lighten; 
 
 }
 
@@ -18,7 +17,6 @@ background-blend-mode: lighten;
   position: center;
   padding: 2px;
   background-color: rgb(210, 169, 72);
-  background-blend-mode: lighten;
 }
 body {
   background-color: rgb(210, 169, 72);
